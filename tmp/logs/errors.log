@@ -1,0 +1,25 @@
+
+[2023-12-19 21:27:32] Текст ошибки: Not found language user | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\language\Language.php | Строка: 42
+=================
+[2023-12-19 21:27:32] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
+[2023-12-19 22:09:37] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
+[2023-12-19 22:11:42] Текст ошибки: Undefined array key "cart.sum" | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\Order.php | Строка: 21
+=================
+[2023-12-20 17:23:01] Текст ошибки: Not found language ilya | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\language\Language.php | Строка: 42
+=================
+[2023-12-20 19:06:53] Текст ошибки: Not found language fra | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\language\Language.php | Строка: 42
+=================
+[2023-12-21 20:47:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
+[2023-12-21 20:55:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
+[2023-12-21 22:08:13] Текст ошибки: Not found language fr | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\language\Language.php | Строка: 42
+=================
+[2023-12-21 22:08:22] Текст ошибки: Not found language fr | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\language\Language.php | Строка: 42
+=================
+[2023-12-21 22:08:35] Текст ошибки: Not found language shop | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\language\Language.php | Строка: 42
+=================
+[2023-12-21 22:09:49] Текст ошибки: Метод app\controllers\UserController::templeAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
